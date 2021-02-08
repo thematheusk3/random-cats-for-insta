@@ -1,0 +1,1 @@
+module.exports = { 'username': '', 'password': '', 'api_key': '' };
